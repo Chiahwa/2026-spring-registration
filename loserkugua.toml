@@ -1,0 +1,9 @@
+[about]
+name = "LoserKugua"
+avatar = "loserkugua.png"
+hobbies = ["programming", "gaming(?)", "reading"]
+skills = ["Qt", "Python"]
+
+[social]
+github = "LoserKugua"
+website = "https://www.cnblogs.com/woshilaji"
