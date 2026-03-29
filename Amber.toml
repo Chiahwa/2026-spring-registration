@@ -1,7 +1,7 @@
 [about]
 name = "Amber"
-avatar = "Abmer.png"
-hobbies = [""fitness", "💻 Programming", "🏸 Taekwondo]
+avatar = "Abmer.jpg"
+hobbies = ["fitness", "💻 Programming", "🏸 Taekwondo]
 skills = ["LLM", "python", "painting", "caligraphy"]
 
 [social]
